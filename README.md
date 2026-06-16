@@ -17,3 +17,5 @@ npm run preview
 - Pages: Home, Services, Portfolio (filters + modal viewer), About, Contact.
 - Contact form uses React Hook Form + Zod (frontend-only demo).
 - Portfolio modal supports ESC + arrow keys.
+
+Created with AI, to help a friend with his site. It's a test version of the whole site and created in a few days
